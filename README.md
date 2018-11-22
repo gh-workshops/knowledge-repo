@@ -1,6 +1,6 @@
 # Jupyter Samples
 
-### Hello Extreme Networks
+### Hello JetBrains Conference
 
 <!-- toc -->
 
